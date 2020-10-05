@@ -1,0 +1,3185 @@
+[
+    {
+        "current_fire": [
+            {
+                "geometry": {
+                    "type": "Point", 
+                    "coordinates": [
+                        -56.4365, 
+                        -18.1338
+                    ]
+                }, 
+                "geometry_name": "geom", 
+                "type": "Feature", 
+                "properties": {
+                    "risco_fogo": null, 
+                    "longitude": -56.43652, 
+                    "data_hora_gmt": "2020-10-05T00:33:50+00:00", 
+                    "municipio": "CORUMB\u00c1", 
+                    "latitude": -18.133831, 
+                    "pais": "Brasil", 
+                    "numero_dias_sem_chuva": null, 
+                    "estado": "MATO GROSSO DO SUL", 
+                    "precipitacao": null, 
+                    "satelite": "NOAA-18D"
+                }, 
+                "id": "focos_ams_24h.112c2f80-f1f0-3294-b0ee-b4d29d2bbbf0"
+            }
+        ], 
+        "current_weather": [
+            {
+                "clouds": {
+                    "all": 0
+                }, 
+                "name": "Puerto Quijarro", 
+                "visibility": 10000, 
+                "sys": {
+                    "country": "BO", 
+                    "sunset": 1601847824, 
+                    "sunrise": 1601803481
+                }, 
+                "weather": [
+                    {
+                        "main": "Clear", 
+                        "id": 800, 
+                        "icon": "01n", 
+                        "description": "clear sky"
+                    }
+                ], 
+                "coord": {
+                    "lat": -18.13, 
+                    "lon": -56.44
+                }, 
+                "base": "stations", 
+                "timezone": -14400, 
+                "dt": 1601861658, 
+                "main": {
+                    "temp": 303.31, 
+                    "grnd_level": 993, 
+                    "temp_max": 303.31, 
+                    "sea_level": 1007, 
+                    "humidity": 34, 
+                    "pressure": 1007, 
+                    "temp_min": 303.31, 
+                    "feels_like": 301.52
+                }, 
+                "id": 3444201, 
+                "wind": {
+                    "speed": 3.68, 
+                    "deg": 207
+                }, 
+                "cod": 200
+            }
+        ], 
+        "history": [
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-05-08", 
+                        "0.0", 
+                        "25.55", 
+                        "74.25", 
+                        "1.43"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "81", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2017-05-08", 
+                        "type": "0", 
+                        "brightness": 328.1, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.362, 
+                        "track": 1, 
+                        "frp": 20.6, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 302.1, 
+                        "latitude": -18.0773, 
+                        "daynight": "D", 
+                        "acq_time": "1739"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-06-08", 
+                        "0.0", 
+                        "25.21", 
+                        "71.54", 
+                        "0.19"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "81", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2017-06-08", 
+                        "type": "0", 
+                        "brightness": 327, 
+                        "satellite": "Terra", 
+                        "longitude": -56.3818, 
+                        "track": 1, 
+                        "frp": 18.7, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 300.6, 
+                        "latitude": -18.064, 
+                        "daynight": "D", 
+                        "acq_time": "1409"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-07-15", 
+                        "0.0", 
+                        "22.7", 
+                        "53.71", 
+                        "0.73"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "86", 
+                        "version": "6.03", 
+                        "scan": 1.5, 
+                        "acq_date": "2017-07-15", 
+                        "type": "0", 
+                        "brightness": 334.8, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.3025, 
+                        "track": 1.2, 
+                        "frp": 46.4, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 304.6, 
+                        "latitude": -18.1202, 
+                        "daynight": "D", 
+                        "acq_time": "1714"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-07-15", 
+                        "0.0", 
+                        "22.7", 
+                        "53.71", 
+                        "0.73"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "94", 
+                        "version": "6.03", 
+                        "scan": 1.5, 
+                        "acq_date": "2017-07-15", 
+                        "type": "0", 
+                        "brightness": 347.1, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.3162, 
+                        "track": 1.2, 
+                        "frp": 83, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 305.2, 
+                        "latitude": -18.1218, 
+                        "daynight": "D", 
+                        "acq_time": "1714"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-09-10", 
+                        "0.0", 
+                        "30.96", 
+                        "31.57", 
+                        "3.97"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "87", 
+                        "version": "6.03", 
+                        "scan": 1.3, 
+                        "acq_date": "2019-09-10", 
+                        "type": "0", 
+                        "brightness": 340.9, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.5314, 
+                        "track": 1.1, 
+                        "frp": 42.3, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 309.2, 
+                        "latitude": -18.0849, 
+                        "daynight": "D", 
+                        "acq_time": "1745"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-09-10", 
+                        "0.0", 
+                        "30.96", 
+                        "31.57", 
+                        "3.97"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "87", 
+                        "version": "6.03", 
+                        "scan": 1.3, 
+                        "acq_date": "2019-09-10", 
+                        "type": "0", 
+                        "brightness": 340.3, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.5195, 
+                        "track": 1.1, 
+                        "frp": 40.9, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 307.4, 
+                        "latitude": -18.0829, 
+                        "daynight": "D", 
+                        "acq_time": "1745"
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "current_fire": [
+            {
+                "geometry": {
+                    "type": "Point", 
+                    "coordinates": [
+                        -56.4382, 
+                        -18.1242
+                    ]
+                }, 
+                "geometry_name": "geom", 
+                "type": "Feature", 
+                "properties": {
+                    "risco_fogo": null, 
+                    "longitude": -56.43816, 
+                    "data_hora_gmt": "2020-10-05T00:33:50+00:00", 
+                    "municipio": "CORUMB\u00c1", 
+                    "latitude": -18.124241, 
+                    "pais": "Brasil", 
+                    "numero_dias_sem_chuva": null, 
+                    "estado": "MATO GROSSO DO SUL", 
+                    "precipitacao": null, 
+                    "satelite": "NOAA-18D"
+                }, 
+                "id": "focos_ams_24h.e0a80447-a99b-3eea-a522-aed0df09e1fe"
+            }
+        ], 
+        "current_weather": [
+            {
+                "clouds": {
+                    "all": 0
+                }, 
+                "name": "Puerto Quijarro", 
+                "visibility": 10000, 
+                "sys": {
+                    "country": "BO", 
+                    "sunset": 1601847824, 
+                    "sunrise": 1601803481
+                }, 
+                "weather": [
+                    {
+                        "main": "Clear", 
+                        "id": 800, 
+                        "icon": "01n", 
+                        "description": "clear sky"
+                    }
+                ], 
+                "coord": {
+                    "lat": -18.12, 
+                    "lon": -56.44
+                }, 
+                "base": "stations", 
+                "timezone": -14400, 
+                "dt": 1601861658, 
+                "main": {
+                    "temp": 303.36, 
+                    "grnd_level": 993, 
+                    "temp_max": 303.36, 
+                    "sea_level": 1007, 
+                    "humidity": 34, 
+                    "pressure": 1007, 
+                    "temp_min": 303.36, 
+                    "feels_like": 301.61
+                }, 
+                "id": 3444201, 
+                "wind": {
+                    "speed": 3.65, 
+                    "deg": 207
+                }, 
+                "cod": 200
+            }
+        ], 
+        "history": [
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-05-08", 
+                        "0.0", 
+                        "25.55", 
+                        "74.25", 
+                        "1.43"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "81", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2017-05-08", 
+                        "type": "0", 
+                        "brightness": 328.1, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.362, 
+                        "track": 1, 
+                        "frp": 20.6, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 302.1, 
+                        "latitude": -18.0773, 
+                        "daynight": "D", 
+                        "acq_time": "1739"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-06-08", 
+                        "0.0", 
+                        "25.21", 
+                        "71.54", 
+                        "0.19"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "81", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2017-06-08", 
+                        "type": "0", 
+                        "brightness": 327, 
+                        "satellite": "Terra", 
+                        "longitude": -56.3818, 
+                        "track": 1, 
+                        "frp": 18.7, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 300.6, 
+                        "latitude": -18.064, 
+                        "daynight": "D", 
+                        "acq_time": "1409"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-07-15", 
+                        "0.0", 
+                        "22.7", 
+                        "53.71", 
+                        "0.73"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "86", 
+                        "version": "6.03", 
+                        "scan": 1.5, 
+                        "acq_date": "2017-07-15", 
+                        "type": "0", 
+                        "brightness": 334.8, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.3025, 
+                        "track": 1.2, 
+                        "frp": 46.4, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 304.6, 
+                        "latitude": -18.1202, 
+                        "daynight": "D", 
+                        "acq_time": "1714"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-07-15", 
+                        "0.0", 
+                        "22.7", 
+                        "53.71", 
+                        "0.73"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "94", 
+                        "version": "6.03", 
+                        "scan": 1.5, 
+                        "acq_date": "2017-07-15", 
+                        "type": "0", 
+                        "brightness": 347.1, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.3162, 
+                        "track": 1.2, 
+                        "frp": 83, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 305.2, 
+                        "latitude": -18.1218, 
+                        "daynight": "D", 
+                        "acq_time": "1714"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-09-09", 
+                        "0.0", 
+                        "31.49", 
+                        "32.64", 
+                        "4.39"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "85", 
+                        "version": "6.03", 
+                        "scan": 1.2, 
+                        "acq_date": "2019-09-09", 
+                        "type": "0", 
+                        "brightness": 337, 
+                        "satellite": "Terra", 
+                        "longitude": -56.5232, 
+                        "track": 1.1, 
+                        "frp": 29.8, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 308.8, 
+                        "latitude": -18.0652, 
+                        "daynight": "D", 
+                        "acq_time": "1415"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-09-10", 
+                        "0.0", 
+                        "30.96", 
+                        "31.57", 
+                        "3.97"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "87", 
+                        "version": "6.03", 
+                        "scan": 1.3, 
+                        "acq_date": "2019-09-10", 
+                        "type": "0", 
+                        "brightness": 340.9, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.5314, 
+                        "track": 1.1, 
+                        "frp": 42.3, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 309.2, 
+                        "latitude": -18.0849, 
+                        "daynight": "D", 
+                        "acq_time": "1745"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-09-10", 
+                        "0.0", 
+                        "30.96", 
+                        "31.57", 
+                        "3.97"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "87", 
+                        "version": "6.03", 
+                        "scan": 1.3, 
+                        "acq_date": "2019-09-10", 
+                        "type": "0", 
+                        "brightness": 340.3, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.5195, 
+                        "track": 1.1, 
+                        "frp": 40.9, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 307.4, 
+                        "latitude": -18.0829, 
+                        "daynight": "D", 
+                        "acq_time": "1745"
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "current_fire": [
+            {
+                "geometry": {
+                    "type": "Point", 
+                    "coordinates": [
+                        -57.61, 
+                        -17.9
+                    ]
+                }, 
+                "geometry_name": "geom", 
+                "type": "Feature", 
+                "properties": {
+                    "risco_fogo": null, 
+                    "longitude": -57.61, 
+                    "data_hora_gmt": "2020-10-05T00:33:34+00:00", 
+                    "municipio": "CORUMB\u00c1", 
+                    "latitude": -17.9, 
+                    "pais": "Brasil", 
+                    "numero_dias_sem_chuva": null, 
+                    "estado": "MATO GROSSO DO SUL", 
+                    "precipitacao": null, 
+                    "satelite": "GOES-16"
+                }, 
+                "id": "focos_ams_24h.b584ca14-54f5-3264-983e-a7e80ea389ba"
+            }
+        ], 
+        "current_weather": [
+            {
+                "clouds": {
+                    "all": 6
+                }, 
+                "name": "Puerto Quijarro", 
+                "visibility": 10000, 
+                "sys": {
+                    "country": "BO", 
+                    "sunset": 1601848100, 
+                    "sunrise": 1601803767
+                }, 
+                "weather": [
+                    {
+                        "main": "Clear", 
+                        "id": 800, 
+                        "icon": "01n", 
+                        "description": "clear sky"
+                    }
+                ], 
+                "coord": {
+                    "lat": -17.9, 
+                    "lon": -57.61
+                }, 
+                "base": "stations", 
+                "timezone": -14400, 
+                "dt": 1601861659, 
+                "main": {
+                    "temp": 299.17, 
+                    "grnd_level": 936, 
+                    "temp_max": 299.17, 
+                    "sea_level": 1007, 
+                    "humidity": 43, 
+                    "pressure": 1007, 
+                    "temp_min": 299.17, 
+                    "feels_like": 298.74
+                }, 
+                "id": 3444201, 
+                "wind": {
+                    "speed": 1.7, 
+                    "deg": 191
+                }, 
+                "cod": 200
+            }
+        ], 
+        "history": [
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-09-10", 
+                        "0.0", 
+                        "29.99", 
+                        "50.2", 
+                        "2.26"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "87", 
+                        "version": "6.03", 
+                        "scan": 2.3, 
+                        "acq_date": "2017-09-10", 
+                        "type": "0", 
+                        "brightness": 338.9, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.6055, 
+                        "track": 1.5, 
+                        "frp": 111.9, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 300, 
+                        "latitude": -17.9841, 
+                        "daynight": "D", 
+                        "acq_time": "1708"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-09-10", 
+                        "0.0", 
+                        "29.99", 
+                        "50.2", 
+                        "2.26"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "83", 
+                        "version": "6.03", 
+                        "scan": 2.3, 
+                        "acq_date": "2017-09-10", 
+                        "type": "0", 
+                        "brightness": 334, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.612, 
+                        "track": 1.5, 
+                        "frp": 83.2, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 300.2, 
+                        "latitude": -17.988, 
+                        "daynight": "D", 
+                        "acq_time": "1708"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-26", 
+                        "0.0", 
+                        "30.05", 
+                        "57.46", 
+                        "0.89"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1.2, 
+                        "acq_date": "2019-11-26", 
+                        "type": "0", 
+                        "brightness": 322.3, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.5442, 
+                        "track": 1.1, 
+                        "frp": 24.1, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 282.5, 
+                        "latitude": -17.9682, 
+                        "daynight": "N", 
+                        "acq_time": "0503"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-26", 
+                        "0.0", 
+                        "30.05", 
+                        "57.46", 
+                        "0.89"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "85", 
+                        "version": "6.03", 
+                        "scan": 1.8, 
+                        "acq_date": "2019-11-26", 
+                        "type": "0", 
+                        "brightness": 333, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.5372, 
+                        "track": 1.3, 
+                        "frp": 50.6, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 297.5, 
+                        "latitude": -17.9698, 
+                        "daynight": "D", 
+                        "acq_time": "1714"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2020-03-13", 
+                        "0.25", 
+                        "29.07", 
+                        "58.29", 
+                        "0.06"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "84", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2020-03-13", 
+                        "type": "0", 
+                        "brightness": 312.1, 
+                        "satellite": "Terra", 
+                        "longitude": -57.5006, 
+                        "track": 1.1, 
+                        "frp": 10, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 291.7, 
+                        "latitude": -17.9388, 
+                        "daynight": "N", 
+                        "acq_time": "0222"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2020-03-15", 
+                        "0.0", 
+                        "29.8", 
+                        "57.46", 
+                        "0.0"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2020-03-15", 
+                        "type": "0", 
+                        "brightness": 322.4, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.4958, 
+                        "track": 1, 
+                        "frp": 17.1, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 296.3, 
+                        "latitude": -17.925, 
+                        "daynight": "N", 
+                        "acq_time": "0515"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2020-03-15", 
+                        "0.0", 
+                        "29.8", 
+                        "57.46", 
+                        "0.0"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "87", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2020-03-15", 
+                        "type": "0", 
+                        "brightness": 313.6, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.4972, 
+                        "track": 1, 
+                        "frp": 8.7, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 295.8, 
+                        "latitude": -17.934, 
+                        "daynight": "N", 
+                        "acq_time": "0515"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2020-03-15", 
+                        "0.0", 
+                        "29.8", 
+                        "57.46", 
+                        "0.0"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "81", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2020-03-15", 
+                        "type": "0", 
+                        "brightness": 335.5, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.4973, 
+                        "track": 1.1, 
+                        "frp": 30.4, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 300.4, 
+                        "latitude": -17.9241, 
+                        "daynight": "D", 
+                        "acq_time": "1727"
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "current_fire": [
+            {
+                "geometry": {
+                    "type": "Point", 
+                    "coordinates": [
+                        -56.29, 
+                        -18.25
+                    ]
+                }, 
+                "geometry_name": "geom", 
+                "type": "Feature", 
+                "properties": {
+                    "risco_fogo": null, 
+                    "longitude": -56.29, 
+                    "data_hora_gmt": "2020-10-05T00:33:31+00:00", 
+                    "municipio": "CORUMB\u00c1", 
+                    "latitude": -18.25, 
+                    "pais": "Brasil", 
+                    "numero_dias_sem_chuva": null, 
+                    "estado": "MATO GROSSO DO SUL", 
+                    "precipitacao": null, 
+                    "satelite": "GOES-16"
+                }, 
+                "id": "focos_ams_24h.29ff3ec7-6a1f-3598-8157-5c3f5a08ff3d"
+            }
+        ], 
+        "current_weather": [
+            {
+                "clouds": {
+                    "all": 0
+                }, 
+                "name": "Tr\u00eas Marias", 
+                "visibility": 10000, 
+                "sys": {
+                    "country": "BR", 
+                    "sunset": 1601847791, 
+                    "sunrise": 1601803443
+                }, 
+                "weather": [
+                    {
+                        "main": "Clear", 
+                        "id": 800, 
+                        "icon": "01n", 
+                        "description": "clear sky"
+                    }
+                ], 
+                "coord": {
+                    "lat": -18.25, 
+                    "lon": -56.29
+                }, 
+                "base": "stations", 
+                "timezone": -14400, 
+                "dt": 1601861660, 
+                "main": {
+                    "temp": 302.79, 
+                    "grnd_level": 993, 
+                    "temp_max": 302.79, 
+                    "sea_level": 1007, 
+                    "humidity": 34, 
+                    "pressure": 1007, 
+                    "temp_min": 302.79, 
+                    "feels_like": 300.83
+                }, 
+                "id": 3446097, 
+                "wind": {
+                    "speed": 3.73, 
+                    "deg": 209
+                }, 
+                "cod": 200
+            }
+        ], 
+        "history": [
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-07-13", 
+                        "0.0", 
+                        "20.96", 
+                        "64.63", 
+                        "0.2"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "85", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2017-07-13", 
+                        "type": "0", 
+                        "brightness": 333.5, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.1938, 
+                        "track": 1, 
+                        "frp": 27.8, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 303.1, 
+                        "latitude": -18.2609, 
+                        "daynight": "D", 
+                        "acq_time": "1726"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-07-13", 
+                        "0.0", 
+                        "20.96", 
+                        "64.63", 
+                        "0.2"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "82", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2017-07-13", 
+                        "type": "0", 
+                        "brightness": 329.4, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.1952, 
+                        "track": 1, 
+                        "frp": 21.2, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 304, 
+                        "latitude": -18.2518, 
+                        "daynight": "D", 
+                        "acq_time": "1726"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-07-15", 
+                        "0.0", 
+                        "22.7", 
+                        "53.71", 
+                        "0.73"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "89", 
+                        "version": "6.03", 
+                        "scan": 2, 
+                        "acq_date": "2017-07-15", 
+                        "type": "0", 
+                        "brightness": 338.3, 
+                        "satellite": "Terra", 
+                        "longitude": -56.2211, 
+                        "track": 1.4, 
+                        "frp": 97.9, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 300.8, 
+                        "latitude": -18.2542, 
+                        "daynight": "D", 
+                        "acq_time": "1428"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-07-15", 
+                        "0.0", 
+                        "22.7", 
+                        "53.71", 
+                        "0.73"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "90", 
+                        "version": "6.03", 
+                        "scan": 2, 
+                        "acq_date": "2017-07-15", 
+                        "type": "0", 
+                        "brightness": 339, 
+                        "satellite": "Terra", 
+                        "longitude": -56.2144, 
+                        "track": 1.4, 
+                        "frp": 99.8, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 301.2, 
+                        "latitude": -18.2519, 
+                        "daynight": "D", 
+                        "acq_time": "1428"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-07-15", 
+                        "0.0", 
+                        "22.7", 
+                        "53.71", 
+                        "0.73"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "86", 
+                        "version": "6.03", 
+                        "scan": 1.5, 
+                        "acq_date": "2017-07-15", 
+                        "type": "0", 
+                        "brightness": 334.8, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.3025, 
+                        "track": 1.2, 
+                        "frp": 46.4, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 304.6, 
+                        "latitude": -18.1202, 
+                        "daynight": "D", 
+                        "acq_time": "1714"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-10-15", 
+                        "0.0", 
+                        "22.3", 
+                        "64.92", 
+                        "0.8"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "93", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2017-10-15", 
+                        "type": "0", 
+                        "brightness": 316.3, 
+                        "satellite": "Terra", 
+                        "longitude": -56.21, 
+                        "track": 1, 
+                        "frp": 15.5, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 290, 
+                        "latitude": -18.2274, 
+                        "daynight": "N", 
+                        "acq_time": "0221"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-10-15", 
+                        "0.0", 
+                        "22.3", 
+                        "64.92", 
+                        "0.8"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "80", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2017-10-15", 
+                        "type": "0", 
+                        "brightness": 329.9, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2164, 
+                        "track": 1, 
+                        "frp": 23.1, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 301, 
+                        "latitude": -18.2313, 
+                        "daynight": "D", 
+                        "acq_time": "1739"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-10-16", 
+                        "0.0", 
+                        "26.87", 
+                        "60.58", 
+                        "0.51"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "93", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2017-10-16", 
+                        "type": "0", 
+                        "brightness": 347.1, 
+                        "satellite": "Terra", 
+                        "longitude": -56.2124, 
+                        "track": 1, 
+                        "frp": 50.3, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 306.5, 
+                        "latitude": -18.2362, 
+                        "daynight": "D", 
+                        "acq_time": "1357"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2017-10-16", 
+                        "0.0", 
+                        "26.87", 
+                        "60.58", 
+                        "0.51"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2017-10-16", 
+                        "type": "0", 
+                        "brightness": 378.8, 
+                        "satellite": "Terra", 
+                        "longitude": -56.2225, 
+                        "track": 1, 
+                        "frp": 151.5, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 306.4, 
+                        "latitude": -18.2347, 
+                        "daynight": "D", 
+                        "acq_time": "1357"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-08-31", 
+                        "0.0", 
+                        "27.43", 
+                        "55.25", 
+                        "2.49"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "96", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2018-08-31", 
+                        "type": "0", 
+                        "brightness": 351.9, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2249, 
+                        "track": 1.1, 
+                        "frp": 65.8, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 305, 
+                        "latitude": -18.2511, 
+                        "daynight": "D", 
+                        "acq_time": "1740"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-08-31", 
+                        "0.0", 
+                        "27.43", 
+                        "55.25", 
+                        "2.49"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "98", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2018-08-31", 
+                        "type": "0", 
+                        "brightness": 357.2, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2443, 
+                        "track": 1.1, 
+                        "frp": 82.1, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 305.6, 
+                        "latitude": -18.2638, 
+                        "daynight": "D", 
+                        "acq_time": "1740"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-08-31", 
+                        "0.0", 
+                        "27.43", 
+                        "55.25", 
+                        "2.49"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "95", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2018-08-31", 
+                        "type": "0", 
+                        "brightness": 351.1, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2338, 
+                        "track": 1.1, 
+                        "frp": 65.2, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 304, 
+                        "latitude": -18.2622, 
+                        "daynight": "D", 
+                        "acq_time": "1740"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-08-31", 
+                        "0.0", 
+                        "27.43", 
+                        "55.25", 
+                        "2.49"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2018-08-31", 
+                        "type": "0", 
+                        "brightness": 384.6, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2354, 
+                        "track": 1.1, 
+                        "frp": 191.3, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 308.9, 
+                        "latitude": -18.2527, 
+                        "daynight": "D", 
+                        "acq_time": "1740"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-08-31", 
+                        "0.0", 
+                        "27.43", 
+                        "55.25", 
+                        "2.49"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2018-08-31", 
+                        "type": "0", 
+                        "brightness": 369.7, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.237, 
+                        "track": 1.1, 
+                        "frp": 123.4, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 307.9, 
+                        "latitude": -18.2433, 
+                        "daynight": "D", 
+                        "acq_time": "1740"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-08-31", 
+                        "0.0", 
+                        "27.43", 
+                        "55.25", 
+                        "2.49"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "92", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2018-08-31", 
+                        "type": "0", 
+                        "brightness": 345.3, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2265, 
+                        "track": 1.1, 
+                        "frp": 49.6, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 305.4, 
+                        "latitude": -18.2416, 
+                        "daynight": "D", 
+                        "acq_time": "1740"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-08-31", 
+                        "0.0", 
+                        "27.43", 
+                        "55.25", 
+                        "2.49"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2018-08-31", 
+                        "type": "0", 
+                        "brightness": 379.4, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2459, 
+                        "track": 1.1, 
+                        "frp": 166.1, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 309, 
+                        "latitude": -18.2543, 
+                        "daynight": "D", 
+                        "acq_time": "1740"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-08-31", 
+                        "0.0", 
+                        "27.43", 
+                        "55.25", 
+                        "2.49"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2018-08-31", 
+                        "type": "0", 
+                        "brightness": 365.2, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.1949, 
+                        "track": 1.1, 
+                        "frp": 107, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 305.6, 
+                        "latitude": -18.2367, 
+                        "daynight": "D", 
+                        "acq_time": "1740"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-08-31", 
+                        "0.0", 
+                        "27.43", 
+                        "55.25", 
+                        "2.49"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2018-08-31", 
+                        "type": "0", 
+                        "brightness": 372, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2055, 
+                        "track": 1.1, 
+                        "frp": 132.8, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 307.5, 
+                        "latitude": -18.2384, 
+                        "daynight": "D", 
+                        "acq_time": "1740"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-09-01", 
+                        "0.0", 
+                        "22.73", 
+                        "64.54", 
+                        "3.22"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "92", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2018-09-01", 
+                        "type": "0", 
+                        "brightness": 344.3, 
+                        "satellite": "Terra", 
+                        "longitude": -56.1961, 
+                        "track": 1, 
+                        "frp": 46, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 299.9, 
+                        "latitude": -18.2612, 
+                        "daynight": "D", 
+                        "acq_time": "1358"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-09-02", 
+                        "1.6", 
+                        "12.39", 
+                        "84.88", 
+                        "4.75"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "88", 
+                        "version": "6.03", 
+                        "scan": 1.4, 
+                        "acq_date": "2018-09-02", 
+                        "type": "0", 
+                        "brightness": 313.7, 
+                        "satellite": "Terra", 
+                        "longitude": -56.2087, 
+                        "track": 1.2, 
+                        "frp": 24.9, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 268.5, 
+                        "latitude": -18.2435, 
+                        "daynight": "N", 
+                        "acq_time": "0210"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-09-07", 
+                        "0.0", 
+                        "21.47", 
+                        "59.29", 
+                        "1.0"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "94", 
+                        "version": "6.03", 
+                        "scan": 1.4, 
+                        "acq_date": "2018-09-07", 
+                        "type": "0", 
+                        "brightness": 348.7, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.1842, 
+                        "track": 1.2, 
+                        "frp": 71, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 313.8, 
+                        "latitude": -18.2509, 
+                        "daynight": "D", 
+                        "acq_time": "1745"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-09-07", 
+                        "0.0", 
+                        "21.47", 
+                        "59.29", 
+                        "1.0"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "82", 
+                        "version": "6.03", 
+                        "scan": 1.3, 
+                        "acq_date": "2018-09-07", 
+                        "type": "0", 
+                        "brightness": 335.6, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2474, 
+                        "track": 1.1, 
+                        "frp": 38.7, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 314.5, 
+                        "latitude": -18.2611, 
+                        "daynight": "D", 
+                        "acq_time": "1745"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-09-09", 
+                        "0.0", 
+                        "23.93", 
+                        "54.79", 
+                        "1.32"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2018-09-09", 
+                        "type": "0", 
+                        "brightness": 321.1, 
+                        "satellite": "Terra", 
+                        "longitude": -56.1693, 
+                        "track": 1.1, 
+                        "frp": 22.9, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 293.3, 
+                        "latitude": -18.2242, 
+                        "daynight": "N", 
+                        "acq_time": "0216"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-09-09", 
+                        "0.0", 
+                        "23.93", 
+                        "54.79", 
+                        "1.32"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2018-09-09", 
+                        "type": "0", 
+                        "brightness": 368.5, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.1778, 
+                        "track": 1, 
+                        "frp": 99.9, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 310.6, 
+                        "latitude": -18.2156, 
+                        "daynight": "D", 
+                        "acq_time": "1733"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-09-09", 
+                        "0.0", 
+                        "23.93", 
+                        "54.79", 
+                        "1.32"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "93", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2018-09-09", 
+                        "type": "0", 
+                        "brightness": 348.4, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.1873, 
+                        "track": 1, 
+                        "frp": 46.7, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 307.5, 
+                        "latitude": -18.217, 
+                        "daynight": "D", 
+                        "acq_time": "1733"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-09-09", 
+                        "0.0", 
+                        "23.93", 
+                        "54.79", 
+                        "1.32"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "90", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2018-09-09", 
+                        "type": "0", 
+                        "brightness": 351.7, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.1939, 
+                        "track": 1, 
+                        "frp": 49.9, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 316.2, 
+                        "latitude": -18.2365, 
+                        "daynight": "D", 
+                        "acq_time": "1733"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-09-12", 
+                        "0.0", 
+                        "24.98", 
+                        "61.08", 
+                        "1.22"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "80", 
+                        "version": "6.03", 
+                        "scan": 2.9, 
+                        "acq_date": "2018-09-12", 
+                        "type": "0", 
+                        "brightness": 331.5, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2059, 
+                        "track": 1.6, 
+                        "frp": 86.5, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 308.6, 
+                        "latitude": -18.2328, 
+                        "daynight": "D", 
+                        "acq_time": "1804"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-09-13", 
+                        "0.0", 
+                        "25.3", 
+                        "61.92", 
+                        "1.34"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "97", 
+                        "version": "6.03", 
+                        "scan": 1.6, 
+                        "acq_date": "2018-09-13", 
+                        "type": "0", 
+                        "brightness": 357.4, 
+                        "satellite": "Terra", 
+                        "longitude": -56.219, 
+                        "track": 1.2, 
+                        "frp": 125.7, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 311.1, 
+                        "latitude": -18.2297, 
+                        "daynight": "D", 
+                        "acq_time": "1423"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-09-13", 
+                        "0.0", 
+                        "25.3", 
+                        "61.92", 
+                        "1.34"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "94", 
+                        "version": "6.03", 
+                        "scan": 1.8, 
+                        "acq_date": "2018-09-13", 
+                        "type": "0", 
+                        "brightness": 350.1, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2228, 
+                        "track": 1.3, 
+                        "frp": 111.3, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 313.7, 
+                        "latitude": -18.2381, 
+                        "daynight": "D", 
+                        "acq_time": "1709"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-02", 
+                        "0.0", 
+                        "30.24", 
+                        "48.38", 
+                        "2.51"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "81", 
+                        "version": "6.03", 
+                        "scan": 2.1, 
+                        "acq_date": "2019-11-02", 
+                        "type": "0", 
+                        "brightness": 332.8, 
+                        "satellite": "Terra", 
+                        "longitude": -56.2757, 
+                        "track": 1.4, 
+                        "frp": 61.5, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 301, 
+                        "latitude": -18.2002, 
+                        "daynight": "D", 
+                        "acq_time": "1338"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-02", 
+                        "0.0", 
+                        "30.24", 
+                        "48.38", 
+                        "2.51"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "82", 
+                        "version": "6.03", 
+                        "scan": 2.8, 
+                        "acq_date": "2019-11-02", 
+                        "type": "0", 
+                        "brightness": 338.5, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.256, 
+                        "track": 1.6, 
+                        "frp": 137.8, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 294.3, 
+                        "latitude": -18.226, 
+                        "daynight": "D", 
+                        "acq_time": "1803"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-02", 
+                        "0.0", 
+                        "30.24", 
+                        "48.38", 
+                        "2.51"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "98", 
+                        "version": "6.03", 
+                        "scan": 2.8, 
+                        "acq_date": "2019-11-02", 
+                        "type": "0", 
+                        "brightness": 355.8, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.259, 
+                        "track": 1.6, 
+                        "frp": 295.5, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 296.8, 
+                        "latitude": -18.2117, 
+                        "daynight": "D", 
+                        "acq_time": "1803"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-02", 
+                        "0.0", 
+                        "30.24", 
+                        "48.38", 
+                        "2.51"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "96", 
+                        "version": "6.03", 
+                        "scan": 2.8, 
+                        "acq_date": "2019-11-02", 
+                        "type": "0", 
+                        "brightness": 351.9, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2673, 
+                        "track": 1.6, 
+                        "frp": 253.3, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 298.9, 
+                        "latitude": -18.2091, 
+                        "daynight": "D", 
+                        "acq_time": "1803"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-03", 
+                        "0.0", 
+                        "30.5", 
+                        "42.33", 
+                        "3.13"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "84", 
+                        "version": "6.03", 
+                        "scan": 1.5, 
+                        "acq_date": "2019-11-03", 
+                        "type": "0", 
+                        "brightness": 336.7, 
+                        "satellite": "Terra", 
+                        "longitude": -56.2413, 
+                        "track": 1.2, 
+                        "frp": 49.4, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 298.2, 
+                        "latitude": -18.2084, 
+                        "daynight": "D", 
+                        "acq_time": "1421"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-03", 
+                        "0.0", 
+                        "30.5", 
+                        "42.33", 
+                        "3.13"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "90", 
+                        "version": "6.03", 
+                        "scan": 1.5, 
+                        "acq_date": "2019-11-03", 
+                        "type": "0", 
+                        "brightness": 341.8, 
+                        "satellite": "Terra", 
+                        "longitude": -56.2347, 
+                        "track": 1.2, 
+                        "frp": 63.9, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 298.4, 
+                        "latitude": -18.2071, 
+                        "daynight": "D", 
+                        "acq_time": "1421"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-03", 
+                        "0.0", 
+                        "30.5", 
+                        "42.33", 
+                        "3.13"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "87", 
+                        "version": "6.03", 
+                        "scan": 1.5, 
+                        "acq_date": "2019-11-03", 
+                        "type": "0", 
+                        "brightness": 338.4, 
+                        "satellite": "Terra", 
+                        "longitude": -56.249, 
+                        "track": 1.2, 
+                        "frp": 51.8, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 300.2, 
+                        "latitude": -18.2053, 
+                        "daynight": "D", 
+                        "acq_time": "1421"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-03", 
+                        "0.0", 
+                        "30.5", 
+                        "42.33", 
+                        "3.13"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "91", 
+                        "version": "6.03", 
+                        "scan": 1.9, 
+                        "acq_date": "2019-11-03", 
+                        "type": "0", 
+                        "brightness": 341.6, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2529, 
+                        "track": 1.3, 
+                        "frp": 94.2, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 297, 
+                        "latitude": -18.2079, 
+                        "daynight": "D", 
+                        "acq_time": "1708"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-03", 
+                        "0.0", 
+                        "30.5", 
+                        "42.33", 
+                        "3.13"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "93", 
+                        "version": "6.03", 
+                        "scan": 1.8, 
+                        "acq_date": "2019-11-03", 
+                        "type": "0", 
+                        "brightness": 346.5, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2355, 
+                        "track": 1.3, 
+                        "frp": 114.9, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 293.4, 
+                        "latitude": -18.2059, 
+                        "daynight": "D", 
+                        "acq_time": "1708"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-04", 
+                        "0.0", 
+                        "31.55", 
+                        "39.93", 
+                        "3.95"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "80", 
+                        "version": "6.03", 
+                        "scan": 1.7, 
+                        "acq_date": "2019-11-04", 
+                        "type": "0", 
+                        "brightness": 336.7, 
+                        "satellite": "Aqua", 
+                        "longitude": -56.2477, 
+                        "track": 1.3, 
+                        "frp": 51.7, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 302.6, 
+                        "latitude": -18.2025, 
+                        "daynight": "D", 
+                        "acq_time": "1751"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-05", 
+                        "0.0", 
+                        "32.23", 
+                        "40.6", 
+                        "3.73"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "95", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2019-11-05", 
+                        "type": "0", 
+                        "brightness": 351.3, 
+                        "satellite": "Terra", 
+                        "longitude": -56.2092, 
+                        "track": 1, 
+                        "frp": 56.2, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 301.5, 
+                        "latitude": -18.2084, 
+                        "daynight": "D", 
+                        "acq_time": "1409"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.988681, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -56.622868, 
+                        "name": "NHUMIRIM"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-05", 
+                        "0.0", 
+                        "32.23", 
+                        "40.6", 
+                        "3.73"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "84", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2019-11-05", 
+                        "type": "0", 
+                        "brightness": 336.6, 
+                        "satellite": "Terra", 
+                        "longitude": -56.2963, 
+                        "track": 1, 
+                        "frp": 26.7, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 304.7, 
+                        "latitude": -18.2129, 
+                        "daynight": "D", 
+                        "acq_time": "1409"
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "current_fire": [
+            {
+                "geometry": {
+                    "type": "Point", 
+                    "coordinates": [
+                        -57.53, 
+                        -18.07
+                    ]
+                }, 
+                "geometry_name": "geom", 
+                "type": "Feature", 
+                "properties": {
+                    "risco_fogo": null, 
+                    "longitude": -57.53, 
+                    "data_hora_gmt": "2020-10-05T00:33:31+00:00", 
+                    "municipio": "CORUMB\u00c1", 
+                    "latitude": -18.07, 
+                    "pais": "Brasil", 
+                    "numero_dias_sem_chuva": null, 
+                    "estado": "MATO GROSSO DO SUL", 
+                    "precipitacao": null, 
+                    "satelite": "GOES-16"
+                }, 
+                "id": "focos_ams_24h.08bd48ed-61bb-34d4-ba98-89ee8a2acad8"
+            }
+        ], 
+        "current_weather": [
+            {
+                "clouds": {
+                    "all": 2
+                }, 
+                "name": "Puerto Quijarro", 
+                "visibility": 10000, 
+                "sys": {
+                    "country": "BO", 
+                    "sunset": 1601848084, 
+                    "sunrise": 1601803744
+                }, 
+                "weather": [
+                    {
+                        "main": "Clear", 
+                        "id": 800, 
+                        "icon": "01n", 
+                        "description": "clear sky"
+                    }
+                ], 
+                "coord": {
+                    "lat": -18.07, 
+                    "lon": -57.53
+                }, 
+                "base": "stations", 
+                "timezone": -14400, 
+                "dt": 1601861661, 
+                "main": {
+                    "temp": 301.14, 
+                    "grnd_level": 970, 
+                    "temp_max": 301.14, 
+                    "sea_level": 1007, 
+                    "humidity": 39, 
+                    "pressure": 1007, 
+                    "temp_min": 301.14, 
+                    "feels_like": 300.79
+                }, 
+                "id": 3444201, 
+                "wind": {
+                    "speed": 1.71, 
+                    "deg": 212
+                }, 
+                "cod": 200
+            }
+        ], 
+        "history": [
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2018-10-01", 
+                        "0.0", 
+                        "27.75", 
+                        "62.88", 
+                        "0.09"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "89", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2018-10-01", 
+                        "type": "0", 
+                        "brightness": 340.8, 
+                        "satellite": "Terra", 
+                        "longitude": -57.5135, 
+                        "track": 1, 
+                        "frp": 33.4, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 301.4, 
+                        "latitude": -18.0218, 
+                        "daynight": "D", 
+                        "acq_time": "1410"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-22", 
+                        "0.0", 
+                        "29.03", 
+                        "53.67", 
+                        "0.35"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "87", 
+                        "version": "6.03", 
+                        "scan": 1, 
+                        "acq_date": "2019-11-22", 
+                        "type": "0", 
+                        "brightness": 364.2, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.4343, 
+                        "track": 1, 
+                        "frp": 89.4, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 303.3, 
+                        "latitude": -18.0287, 
+                        "daynight": "D", 
+                        "acq_time": "1739"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-26", 
+                        "0.0", 
+                        "30.05", 
+                        "57.46", 
+                        "0.89"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1.2, 
+                        "acq_date": "2019-11-26", 
+                        "type": "0", 
+                        "brightness": 322.3, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.5442, 
+                        "track": 1.1, 
+                        "frp": 24.1, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 282.5, 
+                        "latitude": -17.9682, 
+                        "daynight": "N", 
+                        "acq_time": "0503"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2019-11-26", 
+                        "0.0", 
+                        "30.05", 
+                        "57.46", 
+                        "0.89"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "85", 
+                        "version": "6.03", 
+                        "scan": 1.8, 
+                        "acq_date": "2019-11-26", 
+                        "type": "0", 
+                        "brightness": 333, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.5372, 
+                        "track": 1.3, 
+                        "frp": 50.6, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 297.5, 
+                        "latitude": -17.9698, 
+                        "daynight": "D", 
+                        "acq_time": "1714"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2020-03-15", 
+                        "0.0", 
+                        "29.8", 
+                        "57.46", 
+                        "0.0"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "86", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2020-03-15", 
+                        "type": "0", 
+                        "brightness": 343.5, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.5023, 
+                        "track": 1.1, 
+                        "frp": 45.4, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 302.5, 
+                        "latitude": -17.9635, 
+                        "daynight": "D", 
+                        "acq_time": "1727"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2020-03-15", 
+                        "0.0", 
+                        "29.8", 
+                        "57.46", 
+                        "0.0"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "85", 
+                        "version": "6.03", 
+                        "scan": 1.1, 
+                        "acq_date": "2020-03-15", 
+                        "type": "0", 
+                        "brightness": 341.3, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.4904, 
+                        "track": 1.1, 
+                        "frp": 42.9, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 299.9, 
+                        "latitude": -17.9717, 
+                        "daynight": "D", 
+                        "acq_time": "1727"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2020-03-18", 
+                        "1.35", 
+                        "29.0", 
+                        "60.38", 
+                        "0.26"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1.2, 
+                        "acq_date": "2020-03-18", 
+                        "type": "0", 
+                        "brightness": 346, 
+                        "satellite": "Terra", 
+                        "longitude": -57.4857, 
+                        "track": 1.1, 
+                        "frp": 62.8, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 295.5, 
+                        "latitude": -17.9835, 
+                        "daynight": "N", 
+                        "acq_time": "0240"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2020-03-18", 
+                        "1.35", 
+                        "29.0", 
+                        "60.38", 
+                        "0.26"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "100", 
+                        "version": "6.03", 
+                        "scan": 1.2, 
+                        "acq_date": "2020-03-18", 
+                        "type": "0", 
+                        "brightness": 344.4, 
+                        "satellite": "Terra", 
+                        "longitude": -57.4749, 
+                        "track": 1.1, 
+                        "frp": 58.8, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 297.4, 
+                        "latitude": -17.9817, 
+                        "daynight": "N", 
+                        "acq_time": "0240"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2020-03-18", 
+                        "1.35", 
+                        "29.0", 
+                        "60.38", 
+                        "0.26"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "80", 
+                        "version": "6.03", 
+                        "scan": 1.8, 
+                        "acq_date": "2020-03-18", 
+                        "type": "0", 
+                        "brightness": 345.4, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.4923, 
+                        "track": 1.3, 
+                        "frp": 96.2, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 298.4, 
+                        "latitude": -17.9963, 
+                        "daynight": "D", 
+                        "acq_time": "1758"
+                    }
+                ]
+            }, 
+            {
+                "cityInfo": [
+                    {
+                        "lat": -18.99667, 
+                        "region": "CO", 
+                        "uf": "MS", 
+                        "lon": -57.6375, 
+                        "name": "CORUMBA"
+                    }
+                ], 
+                "weather": [
+                    [
+                        "2020-03-18", 
+                        "1.35", 
+                        "29.0", 
+                        "60.38", 
+                        "0.26"
+                    ]
+                ], 
+                "fireSpot": [
+                    {
+                        "confidence": "84", 
+                        "version": "6.03", 
+                        "scan": 1.8, 
+                        "acq_date": "2020-03-18", 
+                        "type": "0", 
+                        "brightness": 339.1, 
+                        "satellite": "Aqua", 
+                        "longitude": -57.513, 
+                        "track": 1.3, 
+                        "frp": 66.1, 
+                        "instrument": "MODIS", 
+                        "bright_t31": 300.3, 
+                        "latitude": -17.9758, 
+                        "daynight": "D", 
+                        "acq_time": "1758"
+                    }
+                ]
+            }
+        ]
+    }
+]
